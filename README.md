@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noobgamer0111
 - 👀 I’m interested in API security and hacking in general.
-- 🌱 I’m completed a Bachelors of Clinical Science from Macquarie University.
+- 🌱 I’ve completed a Bachelors of Clinical Science from Macquarie University.
 - 💞️ I’m looking to collaborate on Github and many other Git-based repositories.
 - 📫 How to reach me: Noobgamer0111 on Discord.
 
